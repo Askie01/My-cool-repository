@@ -8,4 +8,8 @@ public class Main {
     public static void catSound() {
         System.out.println("Meeeow!");
     }
+
+	public static void dogSound() {
+        System.out.println("Woof woof.");
+    }
 }
