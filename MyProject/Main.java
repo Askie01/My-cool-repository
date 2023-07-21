@@ -9,6 +9,6 @@ public class Main {
     }
 	
 	public static void dogSound() {
-        System.out.println("Woof woof!");
+        System.out.println("Woof woof.");
     }
 }
