@@ -13,4 +13,8 @@ public class Main {
     public static void dogSound() {
         System.out.println("Woof woof.");
     }
+
+	public static void cowSound() {
+	System.out.println("Moooo!");
+	}
 }
