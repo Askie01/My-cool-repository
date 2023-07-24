@@ -1,4 +1,9 @@
 public class Main {
+
+    public Main() {
+        System.out.printf("Default constructor has been called!");
+    }
+
     public static void main(String[] args) {
         System.out.println("Hello world!");
         System.out.println("Problem has been solved!");
@@ -14,7 +19,7 @@ public class Main {
         System.out.println("Woof woof.");
     }
 
-	public static void cowSound() {
-	System.out.println("Moooo!");
-	}
+    public static void cowSound() {
+        System.out.println("Moooo!");
+    }
 }
