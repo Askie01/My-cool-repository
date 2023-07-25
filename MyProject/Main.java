@@ -4,6 +4,10 @@ public class Main {
         System.out.printf("Default constructor has been called!");
     }
 
+    public Main(int number) {
+        System.out.println("Your number is: " + number);
+    }
+
     public static void main(String[] args) {
         System.out.println("Hello world!");
         System.out.println("Problem has been solved!");
